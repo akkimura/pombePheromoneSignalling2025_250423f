@@ -1,0 +1,13 @@
+.DS_Store
+.Rhistory
+
+# MATLAB editor / autosave
+*.asv
+*.autosave
+
+# MATLAB figures and logs that are commonly generated locally
+*.fig
+*.log
+
+# OS / editor noise
+Thumbs.db
